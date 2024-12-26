@@ -1,200 +1,264 @@
-# Service Catalog
-## Monte Vista Complete Property Services
-Version: 1.0.0
-Last Updated: 2024-12-24
+# Complete Service Catalog 2024
+## Property Pride Professional Services (aka 3PS)
+Version: 2.0.0
+Last Updated: 2024-12-25
 Last Modified By: Documentation Team
-Change Type: Initial Creation
+Change Type: Major Update - Service Integration
 
-### Core Maintenance Services
+### Education & Innovation Centers
+
+#### Advanced Discovery Hub (Ages 12-13)
+##### Research & Learning Centers
+1. Quantum & AI Labs
+   - Neural Network Training Center
+   - Quantum Computing Lab
+   - AI Development Studio
+   - Pattern Recognition Lab
+   - Monthly Program Fee: $250
+
+2. Biotech Research Center
+   - CRISPR Education Lab
+   - DNA Sequencing Studio
+   - Microorganism Study Center
+   - Genetic Modification Lab
+   - Monthly Program Fee: $275
+
+3. Environmental Tech Facility
+   - Carbon Capture Lab
+   - Renewable Energy Center
+   - Climate Modeling Studio
+   - Water Technology Lab
+   - Monthly Program Fee: $225
+
+4. Space Technology Lab
+   - Satellite Data Center
+   - Mars Colonization Lab
+   - Space Farming Studio
+   - Aerospace Workshop
+   - Monthly Program Fee: $275
+
+5. Neural Interface Studio
+   - Brain-Computer Interface Lab
+   - Neural Signal Center
+   - Control Systems Workshop
+   - Ethics Research Center
+   - Monthly Program Fee: $300
+
+#### Youth Development Center (Ages 16-18)
+1. Technical Training Facilities
+   - Equipment Operation Lab
+   - Safety Training Center
+   - Digital Systems Studio
+   - Maintenance Workshop
+   - Program Fee: $200/month
+
+2. Agricultural Technology Center
+   - Drone Operations Lab
+   - Irrigation Systems Center
+   - Data Collection Studio
+   - Smart Farming Lab
+   - Program Fee: $225/month
+
+### Innovation Centers
+
+#### Agricultural Hub (Hwy 285/160 Junction)
+1. Research & Development
+   - Automation Testing Lab
+   - Equipment Innovation Center
+   - Precision Agriculture Lab
+   - Rates: Custom Quote
+
+2. Training Facilities
+   - Equipment Training Center
+   - Safety Certification Hub
+   - Technology Integration Lab
+   - Rates: By Program
+
+#### Technology Center (Monte Vista Industrial Park)
+1. Digital Innovation
+   - AI Development Lab
+   - Automation Testing Center
+   - IoT Integration Facility
+   - Rates: Custom Quote
+
+2. Training Programs
+   - Technical Certification Center
+   - Digital Skills Lab
+   - Professional Development Hub
+   - Rates: By Program
+
+### Core Services
+
+#### Automation Services
+1. Smart Irrigation Systems
+   - System Design: From $5,000
+   - Installation: From $2,500
+   - Monthly Monitoring: $150
+   - Maintenance: By Contract
+
+2. Livestock Management Automation
+   - System Setup: From $7,500
+   - Monthly Service: $200
+   - Data Analytics: $150/month
+   - Custom Solutions: Quote
+
+3. Crop Monitoring Solutions
+   - Drone Services: From $300/acre
+   - Sensor Networks: From $5,000
+   - Monthly Monitoring: $175
+   - Data Analysis: $200/month
+
+4. Remote Property Management
+   - Basic Package: $250/month
+   - Advanced Package: $450/month
+   - Custom Solutions: Quote
+   - Emergency Response: Included
 
 #### Property Maintenance & Grounds
-- Regular property inspections and assessments
-- Lawn mowing and landscaping (seasonal)
-- Tree trimming and maintenance
-- Weed control and prevention
-- Spring/Fall cleanup services
-- Storm damage cleanup
-- General repairs and maintenance
-- Emergency response services
+1. Regular Maintenance
+   - Weekly Service: From $150
+   - Bi-Weekly Service: From $200
+   - Monthly Service: From $300
+   - Custom Schedules Available
+
+2. Specialized Services
+   - Spring Cleanup: From $250
+   - Fall Cleanup: From $250
+   - Storm Cleanup: By Quote
+   - Emergency Service: $150/hour
 
 #### Snow Services
-- Residential driveway and walkway clearing
-- Commercial lot snow removal
-- De-icing application
-- Snow hauling (as needed)
-- Winter storm preparation
-- Equipment maintenance and readiness
+1. Residential Services
+   - Driveway Clearing: From $75
+   - Walkway Clearing: From $45
+   - Season Contract: Custom Quote
+   - Emergency Service: $125/hour
 
-#### Professional Painting
-- Interior and exterior painting
-- Metal roof coating and painting
-- Commercial space painting
-- Line marking (parking lots, fields)
-- Curb address painting (starting at $25)
-- Safety markings
-- Custom signage
+2. Commercial Services
+   - Lot Clearing: By Square Footage
+   - De-icing: $75/application
+   - Season Contract: Custom Quote
+   - 24/7 Monitoring Available
+
+#### Professional Finishing
+1. Painting Services
+   - Interior: $2.50-3.50/sq ft
+   - Exterior: $3.50-4.50/sq ft
+   - Commercial: Custom Quote
+   - Custom Finishes Available
+
+2. Specialty Services
+   - Line Marking: From $1/linear ft
+   - Curb Painting: From $25
+   - Custom Projects: By Quote
+   - Safety Markings: By Project
 
 ### Specialized Services
 
 #### Historical & Rustic Property Care
-- Cabin maintenance and restoration
-- Log sealing and treatment
-- Wood preservation
-- Foundation inspections
-- Weather sealing
-- Pest prevention
-- Historical restoration techniques
+1. Preservation Services
+   - Assessment: $250
+   - Restoration: By Project
+   - Maintenance: Custom Quote
+   - Emergency Service Available
+
+2. Custom Solutions
+   - Material Matching: By Project
+   - Period Restoration: Quote
+   - Preservation Plans: From $500
+   - Annual Maintenance: By Contract
 
 #### Farm & Ranch Services
-- Barn door repairs/installation
-- Corral maintenance
-- Stable renovations
-- Feed storage improvements
-- Equipment shop organization
-- Hay storage maintenance
-- Loading chute repairs
+1. Infrastructure
+   - Barn Repairs: By Project
+   - Corral Work: Custom Quote
+   - Equipment Shop: By Project
+   - Custom Solutions Available
 
-#### Energy Efficiency Solutions
-- Weather stripping installation
-- Insulation inspection/repair
-- Door and window sealing
-- Heat tape installation
-- Pipe wrapping
-- Vent/duct sealing
-- Metal roof reflective coating
-
-#### Security & Safety
-- Gate repair/installation
-- Lock replacement
-- Motion lighting setup
-- Security camera mounting
-- Fence repairs
-- Security door installation
-- Window securing
-
-### Renovation Services
-
-#### Interior Renovations
-- Kitchen and bath updates
-- Cabinet refinishing
-- Tile installation
-- Flooring replacement
-- Fixture updates
-- Minor plumbing work
-- Lighting installation
-- Drywall repair
-- Texture work
-- Trim and baseboard installation
-
-#### Exterior Renovations
-- Siding repair and painting
-- Window trim work
-- Door replacements
-- Deck repair and staining
-- Minor roof repairs
-- Gutter maintenance
-- Concrete repair
-- Fence installation
-- Drainage solutions
-- Outdoor lighting
+2. Maintenance Programs
+   - Monthly Service: From $500
+   - Quarterly Service: From $1,200
+   - Annual Contracts: Custom Quote
+   - Emergency Response: Included
 
 ### Service Packages
 
 #### Complete Commercial Care
-- Weekly lawn maintenance
-- Snow removal service
-- Parking lot maintenance
-- Building maintenance
-- Annual paint inspection
-- Security system checks
+- Weekly Maintenance
+- Snow Removal
+- Building Upkeep
+- Safety Inspections
+- Starting at $750/month
 
 #### Ranch & Farm Service
-- Metal roof maintenance
-- Property upkeep
-- Tree work
-- Snow clearing
-- Equipment yard maintenance
-- Corral and fence repair
+- Equipment Maintenance
+- Property Upkeep
+- Snow Management
+- Emergency Response
+- Starting at $1,000/month
 
 #### Residential Complete
-- Regular lawn mowing
-- Tree trimming service
-- Snow removal
-- House painting
-- General maintenance
-- Seasonal cleanup
+- Lawn Care
+- Snow Removal
+- Basic Maintenance
+- Seasonal Cleanup
+- Starting at $350/month
 
-#### Property Pride Package
-- Address painting
-- Lawn maintenance
-- Snow removal
-- Basic maintenance
-- Annual paint touch-up
-
-#### Seasonal Services
-- Swamp cooler startup/winterizing
-- Irrigation system prep/shutdown
-- Holiday light installation
-- Storm window installation
-- Screen installation/removal
-- Deck furniture refinishing
-- Seasonal equipment storage
-
-#### Additional Services
-- Deck and porch repairs
-- Faux wood finishing
-- Rustic effects
-- Weathered looks
-- Barn quilts
-- Decorative trim
-- Custom signs
-- Equipment touch-up
-
-### Service Benefits
-- Fast completion times
-- Competitive material costs
-- High-quality workmanship
-- Comprehensive service integration
-- Emergency response capability
-- Professional expertise
-- Customer satisfaction guarantee
+### Additional Services
+- Emergency Response: $150/hour
+- Consultation: $125/hour
+- Custom Projects: By Quote
+- Technology Integration: Custom Quote
 
 ### Service Areas
 - Monte Vista
 - Del Norte
 - South Fork
 - Center
-- Surrounding Areas within 30 miles
+- 30-mile service radius
+
+### Quality Guarantees
+- 100% Satisfaction Guarantee
+- Licensed & Insured
+- Professional Staff
+- Emergency Response
+- Technology Enhanced Service
 
 ### Contact Information
-**Property Pride Professional Services**
-- Location: Monte Vista, Colorado
-- Emergency Response Available
-- Commercial & Residential Services
-- Fully Licensed & Insured
+Property Pride Professional Services (aka 3PS)
+- Main Office: [Address]
+- Phone: [Number]
+- Emergency: 24/7 Response
+- Email: [Email]
+- Website: [URL]
 
-### Quality Assurance
-All services are backed by our comprehensive quality standards and delivered through our Knowledge Multiplication System™ to ensure consistent, high-quality results. Each service category is supported by detailed standard operating procedures, rigorous quality controls, and our customer satisfaction guarantee.
+### Service Policies
+1. Scheduling
+   - 24-hour notice preferred
+   - Emergency service available
+   - Flexible scheduling options
+   - Online booking available
 
-### Service Integration
-Our services are designed to work together seamlessly, allowing for comprehensive property maintenance solutions. Through our Knowledge Multiplication System™, we ensure efficient coordination between different service teams and maintain consistent quality across all service lines.
+2. Payment Terms
+   - Net 30 for approved accounts
+   - Major credit cards accepted
+   - Monthly billing available
+   - Custom payment plans
 
-### Environmental Commitment
-All services are delivered with our commitment to environmental sustainability, including:
-- Eco-friendly materials and methods when available
-- Waste reduction practices
-- Energy-efficient solutions
-- Water conservation techniques
-- Sustainable landscaping practices
+3. Guarantees
+   - Satisfaction guaranteed
+   - Quality assurance
+   - Professional service
+   - Timely response
 
 ---
 
-*This Service Catalog is maintained by the Operations Team and updated monthly or as needed to reflect service offerings and pricing updates.*
+*This Service Catalog is maintained by the Operations Team and updated monthly to reflect current services and pricing.*
 
 **Document Control:**
-- Location: DOC-002-SC-2024
-- Access Level: Internal Use Only
+- Location: DOC-005-SC-2024
+- Access Level: Public Distribution
 - Review Cycle: Monthly
 - Document Owner: Operations Director
-- Technical Owner: Operations Team
-- Last Technical Review: 2024-12-24
+- Technical Owner: Service Development Team
+- Last Technical Review: 2024-12-25

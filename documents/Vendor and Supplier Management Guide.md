@@ -1,12 +1,12 @@
 # Vendor & Supplier Management Guide
-## Monte Vista Complete Property Services
+## Property Pride Professional Services (aka 3PS)aka 3PS)
 Version: 1.0.0
 Last Updated: 2024-12-24
 Last Modified By: Documentation Team
 Change Type: Initial Creation
 
 ### Purpose Statement
-This Vendor & Supplier Management Guide establishes comprehensive protocols for selecting, managing, and optimizing vendor and supplier relationships at Monte Vista Complete Property Services. It ensures strategic alignment, quality standards, and operational excellence through systematic vendor management.
+This Vendor & Supplier Management Guide establishes comprehensive protocols for selecting, managing, and optimizing vendor and supplier relationships at Property Pride Professional Services (aka 3PS)aka 3PS). It ensures strategic alignment, quality standards, and operational excellence through systematic vendor management.
 
 **Target Audience:** Procurement team, operations management, finance team
 **Scope:** All vendor and supplier interaction procedures and protocols

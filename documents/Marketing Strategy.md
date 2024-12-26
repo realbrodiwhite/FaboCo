@@ -1,12 +1,12 @@
 # Marketing Strategy
-## Monte Vista Complete Property Services
+## Property Pride Professional Services (aka 3PS)
 Version: 1.1.0
 Last Updated: 2024-12-24
 Last Modified By: Documentation Team
 Change Type: Content Consolidation
 
 ### Purpose Statement
-This Marketing Strategy establishes the comprehensive approach to market positioning, brand development, campaign execution, and growth initiatives at Monte Vista Complete Property Services.
+This Marketing Strategy establishes the comprehensive approach to market positioning, brand development, campaign execution, and growth initiatives at Property Pride Professional Services (aka 3PS).
 
 **Target Audience:** Marketing team, sales staff, management
 **Scope:** All marketing activities and brand development

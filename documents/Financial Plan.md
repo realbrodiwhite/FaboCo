@@ -1,4 +1,4 @@
-# Monte Vista Complete Property Services
+# Property Pride Professional Services (aka 3PS)
 ## Financial Plan 2024
 Version: 1.0.0
 Last Updated: 2024-12-23
@@ -6,7 +6,7 @@ Last Modified By: Documentation Team
 Change Type: Initial Creation
 
 ### Purpose Statement
-This Financial Plan outlines the financial strategy, budgeting, and resource allocation for Monte Vista Complete Property Services. It provides a framework for financial decision-making while ensuring sustainable business growth.
+This Financial Plan outlines the financial strategy, budgeting, and resource allocation for Property Pride Professional Services (aka 3PS). It provides a framework for financial decision-making while ensuring sustainable business growth.
 
 **Target Audience:** Management team, financial stakeholders
 **Scope:** Financial planning and resource allocation

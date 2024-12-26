@@ -1,12 +1,12 @@
 # Service Level Agreements Guide
-## Monte Vista Complete Property Services
+## Property Pride Professional Services (aka 3PS)
 Version: 1.0.0
 Last Updated: 2024-12-24
 Last Modified By: Documentation Team
 Change Type: Initial Creation
 
 ### Purpose Statement
-This Service Level Agreements (SLA) Guide establishes standardized service commitments, response times, and performance metrics for all services provided by Monte Vista Complete Property Services.
+This Service Level Agreements (SLA) Guide establishes standardized service commitments, response times, and performance metrics for all services provided by Property Pride Professional Services (aka 3PS).
 
 **Target Audience:** Service delivery teams, client managers, operations staff
 **Scope:** All service offerings and client commitments

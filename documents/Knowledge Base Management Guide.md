@@ -1,12 +1,12 @@
 # Knowledge Base Management Guide
-## Monte Vista Complete Property Services
+## Property Pride Professional Services (aka 3PS)
 Version: 1.0.0
 Last Updated: 2024-12-24
 Last Modified By: Documentation Team
 Change Type: Initial Creation
 
 ### Purpose Statement
-This Knowledge Base Management Guide establishes comprehensive protocols for managing, maintaining, and optimizing our Knowledge Multiplication System™. It ensures consistent knowledge capture, quality standards, and effective information sharing across Monte Vista Complete Property Services.
+This Knowledge Base Management Guide establishes comprehensive protocols for managing, maintaining, and optimizing our Knowledge Multiplication System™. It ensures consistent knowledge capture, quality standards, and effective information sharing across Property Pride Professional Services (aka 3PS).
 
 **Target Audience:** All team members, knowledge managers, content creators
 **Scope:** All knowledge management procedures and protocols

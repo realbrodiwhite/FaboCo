@@ -1,7 +1,7 @@
 {
   "name": "fabo-co",
   "version": "1.0.0",
-  "description": "Documentation system for Monte Vista Complete Property Services",
+  "description": "Documentation system for Property Pride Professional Services (aka 3PS)",
   "scripts": {
     "dev": "next dev",
     "build": "next build",

@@ -1,12 +1,12 @@
 # Executive Summary
-## Monte Vista Complete Property Services
+## Property Pride Professional Services (aka 3PS)
 Version: 1.0.0
 Last Updated: 2024-12-24
 Last Modified By: Documentation Team
 Change Type: Initial Creation
 
 ### Company Overview
-Monte Vista Complete Property Services delivers comprehensive property maintenance and improvement solutions, specializing in water management, landscaping, surface marking, professional finishing, and packout services. Our unique blend of traditional expertise and technological innovation positions us as a leader in the property services industry.
+Property Pride Professional Services (aka 3PS) delivers comprehensive property maintenance and improvement solutions, specializing in water management, landscaping, surface marking, professional finishing, and packout services. Our unique blend of traditional expertise and technological innovation positions us as a leader in the property services industry.
 
 ### Core Services
 
@@ -214,7 +214,7 @@ Monte Vista Complete Property Services delivers comprehensive property maintenan
 
 ---
 
-*This Executive Summary provides a comprehensive overview of Monte Vista Complete Property Services' operations, strategy, and market position.*
+*This Executive Summary provides a comprehensive overview of Property Pride Professional Services (aka 3PS)' operations, strategy, and market position.*
 
 **Document Control:**
 - Location: DOC-001-ES-2024

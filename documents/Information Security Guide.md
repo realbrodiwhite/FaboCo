@@ -1,12 +1,12 @@
 # Information Security Guide
-## Monte Vista Complete Property Services
+## Property Pride Professional Services (aka 3PS)
 Version: 1.0.0
 Last Updated: 2024-12-24
 Last Modified By: Documentation Team
 Change Type: Initial Creation
 
 ### Purpose Statement
-This Information Security Guide establishes comprehensive security protocols and procedures to protect all information assets, systems, and data at Monte Vista Complete Property Services.
+This Information Security Guide establishes comprehensive security protocols and procedures to protect all information assets, systems, and data at Property Pride Professional Services (aka 3PS).
 
 **Target Audience:** All staff, with specific sections for technical teams
 **Scope:** All information systems, data, and security procedures

@@ -5,7 +5,7 @@ const inter = Inter({ subsets: ['latin'] })
 
 export const metadata = {
   title: 'Monte Vista Documentation',
-  description: 'Documentation system for Monte Vista Complete Property Services',
+  description: 'Documentation system for Property Pride Professional Services (aka 3PS)',
 }
 
 export default function RootLayout({

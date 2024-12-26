@@ -1,13 +1,13 @@
 # Competitive Analysis Report
 
-## Monte Vista Complete Property Services
+## Property Pride Professional Services (aka 3PS)
 
 Version: 1.0.0
 Date: 2024-12-24
 
 ### Market Positioning Overview
 
-Monte Vista Complete Property Services is a well-established property owners. Our competitive analysis report aims to provide an in-depth analysis of the company's market positioning, strengths, weaknesses, opportunities, and threats.
+Property Pride Professional Services (aka 3PS) is a well-established property owners. Our competitive analysis report aims to provide an in-depth analysis of the company's market positioning, strengths, weaknesses, opportunities, and threats.
 
 "Bridging Today with Tomorrow" - A Unique Value Proposition
 
@@ -124,7 +124,7 @@ The market is highly competitive, with numerous property services providers. Our
 
 #### Competitive Scoring
 
-- Monte Vista Complete Property Services
+- Property Pride Professional Services (aka 3PS)
   - Service Quality: 9/10
   - Technological Innovation: 8/10
   - Local Market Understanding: 10/10

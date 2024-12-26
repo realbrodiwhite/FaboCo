@@ -1,12 +1,12 @@
 # Incident Response Plan
-## Monte Vista Complete Property Services
+## Property Pride Professional Services (aka 3PS)
 Version: 1.0.0
 Last Updated: 2024-12-24
 Last Modified By: Documentation Team
 Change Type: Initial Creation
 
 ### Purpose Statement
-This Incident Response Plan establishes standardized procedures for detecting, responding to, and recovering from security incidents and emergencies at Monte Vista Complete Property Services.
+This Incident Response Plan establishes standardized procedures for detecting, responding to, and recovering from security incidents and emergencies at Property Pride Professional Services (aka 3PS).
 
 **Target Audience:** Security team, IT staff, management, and incident responders
 **Scope:** All security incidents and emergency responses

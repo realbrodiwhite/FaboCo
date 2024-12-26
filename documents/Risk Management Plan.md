@@ -1,12 +1,12 @@
 # Risk Management Plan
-## Monte Vista Complete Property Services
+## Property Pride Professional Services (aka 3PS)
 Version: 1.0.0
 Last Updated: 2024-12-24
 Last Modified By: Documentation Team
 Change Type: Initial Creation
 
 ### Purpose Statement
-This Risk Management Plan establishes a comprehensive framework for identifying, assessing, and mitigating risks across all operations at Monte Vista Complete Property Services. It ensures systematic risk management while supporting sustainable business growth and operational excellence.
+This Risk Management Plan establishes a comprehensive framework for identifying, assessing, and mitigating risks across all operations at Property Pride Professional Services (aka 3PS). It ensures systematic risk management while supporting sustainable business growth and operational excellence.
 
 **Target Audience:** All team members, management, stakeholders
 **Scope:** All risk management procedures and protocols

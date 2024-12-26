@@ -1,12 +1,12 @@
 # Change Management Procedures
-## Monte Vista Complete Property Services
+## Property Pride Professional Services (aka 3PS)
 Version: 1.0.0
 Last Updated: 2024-12-24
 Last Modified By: Documentation Team
 Change Type: Initial Creation
 
 ### Purpose Statement
-These Change Management Procedures establish a systematic approach for implementing, tracking, and optimizing changes across Monte Vista Complete Property Services. They ensure controlled evolution while maintaining operational stability and service excellence.
+These Change Management Procedures establish a systematic approach for implementing, tracking, and optimizing changes across Property Pride Professional Services (aka 3PS). They ensure controlled evolution while maintaining operational stability and service excellence.
 
 **Target Audience:** All team members, management, project leads
 **Scope:** All organizational change procedures

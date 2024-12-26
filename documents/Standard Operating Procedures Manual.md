@@ -1,12 +1,12 @@
 # Standard Operating Procedures Manual
-## Monte Vista Complete Property Services
+## Property Pride Professional Services (aka 3PS)
 Version: 1.0.0
 Last Updated: 2024-12-24
 Last Modified By: Documentation Team
 Change Type: Initial Creation
 
 ### Purpose Statement
-This Standard Operating Procedures (SOP) Manual provides comprehensive, step-by-step procedures for all service operations at Monte Vista Complete Property Services, ensuring consistent service delivery and quality control.
+This Standard Operating Procedures (SOP) Manual provides comprehensive, step-by-step procedures for all service operations at Property Pride Professional Services (aka 3PS), ensuring consistent service delivery and quality control.
 
 **Target Audience:** Service delivery teams, operations staff, supervisors
 **Scope:** All operational procedures and service delivery processes

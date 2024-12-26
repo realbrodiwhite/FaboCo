@@ -1,12 +1,12 @@
 # Contract Management Guide
-## Monte Vista Complete Property Services
+## Property Pride Professional Services (aka 3PS)
 Version: 1.0.0
 Last Updated: 2024-12-24
 Last Modified By: Documentation Team
 Change Type: Initial Creation
 
 ### Purpose Statement
-This Contract Management Guide establishes standardized procedures for creating, managing, and maintaining all contracts and service agreements at Monte Vista Complete Property Services.
+This Contract Management Guide establishes standardized procedures for creating, managing, and maintaining all contracts and service agreements at Property Pride Professional Services (aka 3PS).
 
 **Target Audience:** Legal team, management, client service teams
 **Scope:** All contracts and service agreements

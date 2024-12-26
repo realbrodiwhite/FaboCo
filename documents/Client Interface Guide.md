@@ -1,12 +1,12 @@
 # Client Interface Guide
-## Monte Vista Complete Property Services
+## Property Pride Professional Services (aka 3PS)
 Version: 1.0.0
 Last Updated: 2024-12-24
 Last Modified By: Documentation Team
 Change Type: Initial Creation
 
 ### Purpose Statement
-This Client Interface Guide establishes standardized protocols for all client interactions, ensuring consistent, professional, and effective communication across all service touchpoints at Monte Vista Complete Property Services.
+This Client Interface Guide establishes standardized protocols for all client interactions, ensuring consistent, professional, and effective communication across all service touchpoints at Property Pride Professional Services (aka 3PS).
 
 **Target Audience:** Client-facing staff, service teams, management
 **Scope:** All client interactions and communication channels

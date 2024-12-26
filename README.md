@@ -1,4 +1,4 @@
-# Monte Vista Complete Property Services Documentation
+# Property Pride Professional Services (aka 3PS) Documentation
 
 ## Overview
 This repository contains the comprehensive documentation system for Monte Vista Property Services, organized into logical categories for easy navigation and maintenance.

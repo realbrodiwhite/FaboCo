@@ -1,12 +1,12 @@
 # Environmental Management Plan
-## Monte Vista Complete Property Services
+## Property Pride Professional Services (aka 3PS)
 Version: 1.0.0
 Last Updated: 2024-12-24
 Last Modified By: Documentation Team
 Change Type: Initial Creation
 
 ### Purpose Statement
-This Environmental Management Plan establishes comprehensive protocols for environmental protection and sustainable practices across all operations at Monte Vista Complete Property Services. It ensures responsible resource use and environmental stewardship while maintaining service excellence.
+This Environmental Management Plan establishes comprehensive protocols for environmental protection and sustainable practices across all operations at Property Pride Professional Services (aka 3PS). It ensures responsible resource use and environmental stewardship while maintaining service excellence.
 
 **Target Audience:** All team members, environmental specialists, management
 **Scope:** All environmental management procedures and protocols

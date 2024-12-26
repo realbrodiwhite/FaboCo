@@ -1,4 +1,4 @@
-# Monte Vista Complete Property Services
+# Property Pride Professional Services (aka 3PS)
 ## Pitch Deck: Bridging Today with Tomorrow
 
 ### Slide 1: Vision Statement 🌄
@@ -99,5 +99,5 @@ Join Our Journey:
 
 ---
 *Confidential Investor Presentation*
-*Monte Vista Complete Property Services*
+*Property Pride Professional Services (aka 3PS)*
 *Bridging Today with Tomorrow*

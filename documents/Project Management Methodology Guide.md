@@ -1,12 +1,12 @@
 # Project Management Methodology Guide
-## Monte Vista Complete Property Services
+## Property Pride Professional Services (aka 3PS)
 Version: 1.0.0
 Last Updated: 2024-12-24
 Last Modified By: Documentation Team
 Change Type: Initial Creation
 
 ### Purpose Statement
-This Project Management Methodology Guide establishes a comprehensive, standardized approach to project planning, execution, monitoring, and closure across Monte Vista Complete Property Services. It ensures consistent, efficient, and high-quality project delivery while leveraging our Knowledge Multiplication System™ to drive continuous improvement and innovation.
+This Project Management Methodology Guide establishes a comprehensive, standardized approach to project planning, execution, monitoring, and closure across Property Pride Professional Services (aka 3PS). It ensures consistent, efficient, and high-quality project delivery while leveraging our Knowledge Multiplication System™ to drive continuous improvement and innovation.
 
 **Target Audience:** Project managers, team leads, operations teams, management
 **Scope:** All project management procedures, protocols, and best practices

@@ -1,12 +1,12 @@
 # Employee Handbook
-## Monte Vista Complete Property Services
+## Property Pride Professional Services (aka 3PS)
 Version: 1.0.0
 Last Updated: 2024-12-24
 Last Modified By: Documentation Team
 Change Type: Initial Creation
 
 ### Welcome Message
-Welcome to Monte Vista Complete Property Services! We're thrilled to have you join our team. This handbook provides comprehensive guidance for your journey with us, combining traditional expertise with cutting-edge innovation through our Knowledge Multiplication System™.
+Welcome to Property Pride Professional Services (aka 3PS)! We're thrilled to have you join our team. This handbook provides comprehensive guidance for your journey with us, combining traditional expertise with cutting-edge innovation through our Knowledge Multiplication System™.
 
 **Target Audience:** All team members
 **Scope:** All employment policies and procedures
@@ -385,7 +385,7 @@ Providing comprehensive property solutions combining traditional craftsmanship w
 
 ### Acknowledgment
 
-I acknowledge that I have received and read the Monte Vista Complete Property Services Employee Handbook. I understand that it is my responsibility to comply with all policies and procedures outlined in this handbook.
+I acknowledge that I have received and read the Property Pride Professional Services (aka 3PS) Employee Handbook. I understand that it is my responsibility to comply with all policies and procedures outlined in this handbook.
 
 Name: _________________________
 Date: __________________________

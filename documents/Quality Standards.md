@@ -1,12 +1,12 @@
 # Quality Standards
-## Monte Vista Complete Property Services
+## Property Pride Professional Services (aka 3PS)
 Version: 1.0.0
 Last Updated: 2024-12-24
 Last Modified By: Documentation Team
 Change Type: Initial Creation
 
 ### Purpose Statement
-These Quality Standards establish the comprehensive framework for ensuring consistent, high-quality service delivery across all operations at Monte Vista Complete Property Services.
+These Quality Standards establish the comprehensive framework for ensuring consistent, high-quality service delivery across all operations at Property Pride Professional Services (aka 3PS).
 
 **Target Audience:** All team members, supervisors, quality control staff
 **Scope:** All service operations and deliverables

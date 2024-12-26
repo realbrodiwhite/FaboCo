@@ -1,12 +1,12 @@
 # Budget Planning Guide
-## Monte Vista Complete Property Services
+## Property Pride Professional Services (aka 3PS)
 Version: 1.0.0
 Last Updated: 2024-12-24
 Last Modified By: Documentation Team
 Change Type: Initial Creation
 
 ### Purpose Statement
-This Budget Planning Guide establishes standardized procedures for financial planning, resource allocation, and budget management at Monte Vista Complete Property Services.
+This Budget Planning Guide establishes standardized procedures for financial planning, resource allocation, and budget management at Property Pride Professional Services (aka 3PS).
 
 **Target Audience:** Management team, financial staff, department heads
 **Scope:** All budgeting and financial planning processes

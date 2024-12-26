@@ -1,12 +1,12 @@
 # Regulatory Compliance Guide
-## Monte Vista Complete Property Services
+## Property Pride Professional Services (aka 3PS)
 Version: 1.0.0
 Last Updated: 2024-12-24
 Last Modified By: Documentation Team
 Change Type: Initial Creation
 
 ### Purpose Statement
-This Regulatory Compliance Guide establishes comprehensive procedures for ensuring compliance with all applicable laws, regulations, and industry standards at Monte Vista Complete Property Services.
+This Regulatory Compliance Guide establishes comprehensive procedures for ensuring compliance with all applicable laws, regulations, and industry standards at Property Pride Professional Services (aka 3PS).
 
 **Target Audience:** All staff, with specific sections for compliance team and management
 **Scope:** All regulatory compliance requirements and procedures

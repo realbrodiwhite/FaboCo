@@ -1,12 +1,12 @@
 # Equipment & Asset Management Guide
-## Monte Vista Complete Property Services
+## Property Pride Professional Services (aka 3PS)
 Version: 1.0.0
 Last Updated: 2024-12-24
 Last Modified By: Documentation Team
 Change Type: Initial Creation
 
 ### Purpose Statement
-This Equipment & Asset Management Guide establishes comprehensive protocols for managing, maintaining, and optimizing all equipment and assets at Monte Vista Complete Property Services. It ensures maximum operational efficiency while maintaining safety and reliability standards.
+This Equipment & Asset Management Guide establishes comprehensive protocols for managing, maintaining, and optimizing all equipment and assets at Property Pride Professional Services (aka 3PS). It ensures maximum operational efficiency while maintaining safety and reliability standards.
 
 **Target Audience:** Field teams, maintenance staff, operations management
 **Scope:** All equipment and asset management procedures

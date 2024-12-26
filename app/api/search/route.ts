@@ -11,6 +11,7 @@ export async function GET(request: Request) {
       return NextResponse.json({ error: 'Search query is required' }, { status: 400 });
     }
 
+    // Use the documents directory
     const documentsDir = path.join(process.cwd(), 'documents');
     const files = await fs.readdir(documentsDir);
     const results = [];
@@ -43,6 +44,7 @@ export async function GET(request: Request) {
       }
     }
 
+    console.log('Search results:', results); // Debug log
     return NextResponse.json({ results });
   } catch (error) {
     console.error('Error searching documents:', error);

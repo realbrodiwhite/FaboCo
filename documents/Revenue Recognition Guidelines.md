@@ -1,12 +1,12 @@
 # Revenue Recognition Guidelines
-## Monte Vista Complete Property Services
+## Property Pride Professional Services (aka 3PS)
 Version: 1.0.0
 Last Updated: 2024-12-24
 Last Modified By: Documentation Team
 Change Type: Initial Creation
 
 ### Purpose Statement
-This Revenue Recognition Guidelines document establishes standardized procedures for recognizing, recording, and reporting revenue across all service lines at Monte Vista Complete Property Services.
+This Revenue Recognition Guidelines document establishes standardized procedures for recognizing, recording, and reporting revenue across all service lines at Property Pride Professional Services (aka 3PS).
 
 **Target Audience:** Financial team, accounting staff, management
 **Scope:** All revenue recognition processes and procedures

@@ -1,12 +1,12 @@
 # System Architecture Documentation
-## Monte Vista Complete Property Services
+## Property Pride Professional Services (aka 3PS)
 Version: 1.0.0
 Last Updated: 2024-12-24
 Last Modified By: Documentation Team
 Change Type: Initial Creation
 
 ### Purpose Statement
-This System Architecture Documentation provides a comprehensive overview of Monte Vista Complete Property Services' technical infrastructure, with a focus on the Knowledge Multiplication System™ and its integrations.
+This System Architecture Documentation provides a comprehensive overview of Property Pride Professional Services (aka 3PS)' technical infrastructure, with a focus on the Knowledge Multiplication System™ and its integrations.
 
 **Target Audience:** Technical staff, system administrators, developers
 **Scope:** All technical systems and infrastructure

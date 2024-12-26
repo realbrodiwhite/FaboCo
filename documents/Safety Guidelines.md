@@ -1,12 +1,12 @@
 # Safety Guidelines
-## Monte Vista Complete Property Services
+## Property Pride Professional Services (aka 3PS)
 Version: 1.0.0
 Last Updated: 2024-12-24
 Last Modified By: Documentation Team
 Change Type: Initial Creation
 
 ### Purpose Statement
-These Safety Guidelines establish comprehensive protocols and procedures to ensure the safety and well-being of all team members, clients, and stakeholders at Monte Vista Complete Property Services.
+These Safety Guidelines establish comprehensive protocols and procedures to ensure the safety and well-being of all team members, clients, and stakeholders at Property Pride Professional Services (aka 3PS).
 
 **Target Audience:** All team members, contractors, and stakeholders
 **Scope:** All operations and service delivery activities

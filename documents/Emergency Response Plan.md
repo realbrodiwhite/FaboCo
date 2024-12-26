@@ -1,12 +1,12 @@
 # Emergency Response Plan
-## Monte Vista Complete Property Services
+## Property Pride Professional Services (aka 3PS)
 Version: 1.0.0
 Last Updated: 2024-12-24
 Last Modified By: Documentation Team
 Change Type: Initial Creation
 
 ### Purpose Statement
-This Emergency Response Plan establishes comprehensive protocols for emergency situations at Monte Vista Complete Property Services. It ensures rapid, effective response to emergencies while protecting life, property, and business continuity.
+This Emergency Response Plan establishes comprehensive protocols for emergency situations at Property Pride Professional Services (aka 3PS). It ensures rapid, effective response to emergencies while protecting life, property, and business continuity.
 
 **Target Audience:** All team members, emergency response teams, management
 **Scope:** All emergency response procedures and protocols

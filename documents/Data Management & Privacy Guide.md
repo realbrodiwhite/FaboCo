@@ -1,12 +1,12 @@
 # Data Management & Privacy Guide
-## Monte Vista Complete Property Services
+## Property Pride Professional Services (aka 3PS)
 Version: 1.0.0
 Last Updated: 2024-12-24
 Last Modified By: Documentation Team
 Change Type: Initial Creation
 
 ### Purpose Statement
-This Data Management & Privacy Guide establishes comprehensive protocols for managing, protecting, and optimizing all data assets within Monte Vista Complete Property Services, with particular focus on our Knowledge Multiplication System™. It ensures data security, privacy compliance, and efficient information management.
+This Data Management & Privacy Guide establishes comprehensive protocols for managing, protecting, and optimizing all data assets within Property Pride Professional Services (aka 3PS), with particular focus on our Knowledge Multiplication System™. It ensures data security, privacy compliance, and efficient information management.
 
 **Target Audience:** All team members, technology team, management
 **Scope:** All data management and privacy procedures

@@ -1,12 +1,12 @@
 # Investor Relations
-## Monte Vista Complete Property Services
+## Property Pride Professional Services (aka 3PS)
 Version: 1.0.0
 Last Updated: 2024-12-25
 Last Modified By: Documentation Team
 Change Type: Initial Creation
 
 ### Purpose Statement
-This Investor Relations Guide outlines the comprehensive investment opportunity, financial strategy, and growth potential at Monte Vista Complete Property Services. It presents our unique value proposition combining traditional expertise with cutting-edge technology through our Knowledge Multiplication System™.
+This Investor Relations Guide outlines the comprehensive investment opportunity, financial strategy, and growth potential at Property Pride Professional Services (aka 3PS). It presents our unique value proposition combining traditional expertise with cutting-edge technology through our Knowledge Multiplication System™.
 
 **Target Audience:** Potential investors, financial partners, stakeholders
 **Scope:** Investment strategy, financial planning, growth opportunities
