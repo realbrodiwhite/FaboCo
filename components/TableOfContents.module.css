@@ -1,0 +1,69 @@
+.container {
+  padding: 1rem;
+  overflow-y: auto;
+  border-left-width: 1px;
+}
+
+.heading {
+  font-size: 1.125rem;
+  font-weight: 600;
+  margin-bottom: 1rem;
+}
+
+.list {
+  list-style: none;
+  padding: 0;
+  margin: 0;
+}
+
+.item {
+  margin-bottom: 0.5rem;
+  cursor: pointer;
+  transition: color 0.2s;
+}
+
+.item:hover {
+  text-decoration: underline;
+}
+
+.level1 {
+  padding-left: 0;
+}
+
+.level2 {
+  padding-left: 1rem;
+}
+
+.level3 {
+  padding-left: 2rem;
+}
+
+/* Dark mode styles */
+.darkMode {
+  background-color: rgb(31, 41, 55);
+  border-color: rgb(75, 85, 99);
+  color: rgb(229, 231, 235);
+}
+
+.darkMode .item {
+  color: rgb(209, 213, 219);
+}
+
+.darkMode .item:hover {
+  color: rgb(243, 244, 246);
+}
+
+/* Light mode styles */
+.lightMode {
+  background-color: white;
+  border-color: rgb(229, 231, 235);
+  color: rgb(17, 24, 39);
+}
+
+.lightMode .item {
+  color: rgb(75, 85, 99);
+}
+
+.lightMode .item:hover {
+  color: rgb(31, 41, 55);
+}

@@ -12,6 +12,12 @@ export async function GET(request: Request) {
     }
 
     const filePath = path.join(process.cwd(), 'documents', fileName);
+    try {
+        await fs.access(filePath);
+    } catch {
+        return NextResponse.json({ error: 'File not found' }, { status: 404 });
+    }
+
     const content = await fs.readFile(filePath, 'utf8');
 
     return NextResponse.json({ content });
