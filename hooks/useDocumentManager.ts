@@ -90,7 +90,9 @@ export function useDocumentManager() {
       }
       return acc;
     }, {});
-    dispatch({ type: 'SET_DOCUMENTS', payload: searchResults });
+    if (JSON.stringify(state.documents) !== JSON.stringify(searchResults)) {
+      dispatch({ type: 'SET_DOCUMENTS', payload: searchResults });
+    }
   }, []);
 
   const setLoading = useCallback((loading: boolean) => {

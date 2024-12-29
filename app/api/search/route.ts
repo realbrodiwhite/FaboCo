@@ -6,6 +6,7 @@ export async function GET(request: Request) {
   try {
     const { searchParams } = new URL(request.url);
     const query = searchParams.get('q');
+    console.log('Search query:', query);
 
     // Use the documents directory
     const documentsDir = path.join(process.cwd(), 'documents');

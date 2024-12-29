@@ -18,7 +18,9 @@ export function useDocumentSearch(onSearchResults: (results: Document[]) => void
 
       setIsSearching(true);
       try {
+        console.log('Searching for term:', debouncedSearchTerm);
         const response = await fetch(`/api/search?q=${encodeURIComponent(debouncedSearchTerm)}`);
+        console.log('Response status:', response.status);
         if (!response.ok) throw new Error('Search request failed');
         
         const data = await response.json();

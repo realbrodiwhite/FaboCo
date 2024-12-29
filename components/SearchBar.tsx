@@ -1,4 +1,4 @@
-import React, { useCallback, useEffect, useState } from 'react';
+import React, { useCallback, useEffect, useMemo, useState } from 'react';
 import Fuse from 'fuse.js';
 import { useDebounce } from '../hooks/useDebounce';
 import { Document } from './types';
@@ -35,7 +35,8 @@ const SearchBar: React.FC<SearchBarProps> = React.memo(({
     minMatchCharLength: 2,
   };
 
-  const fuse = new Fuse(documents, fuseOptions);
+  // Use useMemo to create the Fuse instance only when documents change
+  const fuse = useMemo(() => new Fuse(documents, fuseOptions), [documents]);
 
   // Perform search
   const performSearch = useCallback((term: string) => {
@@ -44,10 +45,14 @@ const SearchBar: React.FC<SearchBarProps> = React.memo(({
       return;
     }
 
+    console.log('Performing search with term:', term);
     const results = fuse.search(term).map(result => result.item);
+    console.log('Search results:', results);
+    console.log('Search term:', term);
+    console.log('Search results:', results);
     onSearch(results);
 
-    // Update search history
+    // Update search history only if the term is not already in the history
     if (term.trim() && !searchHistory.includes(term)) {
       const newHistory = [term, ...searchHistory].slice(0, 5);
       setSearchHistory(newHistory);
