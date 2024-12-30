@@ -17,7 +17,7 @@ const ExecutiveSummary: React.FC = () => {
             <h3>Company Overview</h3>
 
             <h4>Vision Statement</h4>
-&ldquo;Transforming Service Delivery Through Innovation and Education&rdquo;
+            <p>&ldquo;Transforming Service Delivery Through Innovation and Education&rdquo;</p>
             <p>To be the premier technology-enabled service provider in the San Luis Valley, setting new standards through the perfect integration of traditional expertise, cutting-edge innovation, and educational excellence.</p>
 
             <h4>Mission Statement</h4>
@@ -186,11 +186,15 @@ const ExecutiveSummary: React.FC = () => {
                         <li>Neural Interfaces</li>
                     </ul>
                 </li>
-                <li>Career Development (Ages 16-18)
+                <li>Career Exploration & Development (16-25)
                     <ul>
+                        <li>Invaluable Internships</li>
                         <li>Technical Certification Paths</li>
                         <li>Agricultural Technology</li>
                         <li>Digital Systems</li>
+                        <li>Software Engineer</li>
+                        <li>Robotics Systems Design</li>
+                        <li>Mechanical Engineer</li>
                         <li>Professional Skills</li>
                     </ul>
                 </li>
@@ -235,4 +239,8 @@ const ExecutiveSummary: React.FC = () => {
                     </ul>
                 </li>
             </ol>
-            
+        </div>
+    );
+};
+
+export default ExecutiveSummary;
