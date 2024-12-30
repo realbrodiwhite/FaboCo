@@ -58,7 +58,8 @@ export default function Home() {
     <div className="flex">
       <Header onSearch={setSearchTerm} />
       <Sidebar documents={documents} />
-      <main className="flex-grow p-4">
+      <main className="flex-grow p-4 bg-white">
+        <h2 className="text-xl font-bold mb-4">Documents</h2>
         <DocumentList documents={filteredDocuments} />
       </main>
       <Footer />

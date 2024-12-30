@@ -6,14 +6,21 @@ const DocumentPage = () => {
   const router = useRouter();
   const { slug } = router.query;
 
-  // Ensure slug is defined and is a string
   const documentSlug = Array.isArray(slug) ? slug[0] : slug;
+
+  console.log("Processing slug:", documentSlug); // Debugging line
 
   if (!documentSlug) {
     return <div>Document not found</div>;
   }
 
   const filePath = path.join(process.cwd(), 'documents', `${documentSlug}.md`);
+
+  // Check if the file exists
+  if (!fs.existsSync(filePath)) {
+    return <div>Document not found</div>;
+  }
+
   const fileContent = fs.readFileSync(filePath, 'utf8');
 
   return (

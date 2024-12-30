@@ -3,8 +3,9 @@
 @tailwind utilities;
 
 :root {
-  --background: #ffffff;
+  --background: #f0f4f8; /* Updated to a lighter background color */
   --foreground: #171717;
+  --link-color: #1e90ff; /* Link color */
 }
 
 @media (prefers-color-scheme: dark) {
@@ -17,5 +18,14 @@
 body {
   color: var(--foreground);
   background: var(--background);
-  font-family: Arial, Helvetica, sans-serif;
+  font-family: 'Inter', Arial, Helvetica, sans-serif; /* Updated font stack */
+}
+
+a {
+  color: var(--link-color);
+  text-decoration: none;
+}
+
+a:hover {
+  text-decoration: underline; /* Consistent hover effect */
 }

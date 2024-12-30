@@ -1,30 +1,20 @@
 "use client";
 
-import React, { useState } from 'react';
+import React from 'react';
+import Link from 'next/link';
 
-const Header = ({ onSearch }) => {
-  const [searchTerm, setSearchTerm] = useState('');
-
-  const handleSearch = (e) => {
-    e.preventDefault();
-    onSearch(searchTerm);
-  };
-
+const Header: React.FC = () => {
   return (
-    <header className="bg-gray-800 text-white p-4 flex justify-between items-center shadow-md">
-      <h1 className="text-2xl font-bold">Documentation Website</h1>
-      <form onSubmit={handleSearch} className="flex">
-        <input
-          type="text"
-          placeholder="Search documents..."
-          value={searchTerm}
-          onChange={(e) => setSearchTerm(e.target.value)}
-          className="p-2 rounded-l-md border border-gray-300"
-        />
-        <button type="submit" className="bg-blue-600 p-2 rounded-r-md text-white hover:bg-blue-700 transition">
-          Search
-        </button>
-      </form>
+    <header className="bg-gray-800 text-white p-4 flex justify-between items-center">
+      <div className="flex items-center">
+        <img src="http://localhost:3001/3PS%20-%20Logo.png" alt="Company Logo" className="h-8 mr-2" />
+        <h1 className="text-2xl font-bold">Documentation</h1>
+      </div>
+      <nav className="flex space-x-4">
+        <Link href="/" className="hover:underline">Home</Link>
+        <Link href="/getting-started" className="hover:underline">Getting Started</Link>
+        <Link href="/api-reference" className="hover:underline">API Reference</Link>
+      </nav>
     </header>
   );
 };
