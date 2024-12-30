@@ -6,6 +6,9 @@ const DocumentPage = () => {
   const router = useRouter();
   const { slug } = router.query;
 
+  console.log("Router query:", router.query); // Debugging line
+  console.log("Full slug:", slug); // Debugging line
+
   const documentSlug = Array.isArray(slug) ? slug[0] : slug;
 
   console.log("Processing slug:", documentSlug); // Debugging line
@@ -25,6 +28,7 @@ const DocumentPage = () => {
 
   return (
     <div>
+      <h1>Document Page Loaded</h1> {/* Confirmation message */}
       <h1>{documentSlug.replace(/-/g, ' ')}</h1>
       <div dangerouslySetInnerHTML={{ __html: fileContent }} />
     </div>
