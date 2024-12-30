@@ -12,9 +12,10 @@ const Header: React.FC = () => {
       </div>
       <nav className="flex space-x-4">
         <Link href="/" className="hover:underline">Home</Link>
-        <Link href="/getting-started" className="hover:underline">Getting Started</Link>
-        <Link href="/api-reference" className="hover:underline">API Reference</Link>
+        <Link href="/docs" className="hover:underline">Docs</Link>
+        <Link href="/about" className="hover:underline">About</Link>
       </nav>
+      <button className="bg-blue-500 text-white px-4 py-2 rounded">Sign In</button>
     </header>
   );
 };

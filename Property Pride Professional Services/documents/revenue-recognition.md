@@ -6,274 +6,256 @@ Last Modified By: Documentation Team
 Change Type: Major Update - Educational Integration
 
 ### Purpose Statement
-This Revenue Recognition Guidelines document establishes standardized procedures for recognizing, recording, and reporting revenue across all service lines, educational programs, and innovation initiatives at Property Pride Professional Services (3PS).
+This Revenue Recognition Guidelines document establishes standardized procedures for recognizing, recording, and reporting revenue across all service lines and educational programs at Property Pride Professional Services (3PS).
 
-### Revenue Categories
+### Revenue Categories [KB-031-14]
 
 #### Educational Program Revenue
-1. Advanced Discovery Hub Programs
+1. Advanced Discovery Hub
+   - Program Fees: $250-$300/month/student
    - Recognition Criteria
-     * Monthly program fees
-     * Registration fees
-     * Material fees
-     * Lab usage fees
-   - Recognition Timing
-     * Program fees: Monthly basis
-     * Registration: Upon program start
-     * Material fees: Upon delivery
-     * Lab fees: As utilized
+     * Monthly program delivery
+     * Student attendance verification
+     * Performance obligations met
+     * Payment processing
+     * Documentation requirements
 
-2. Youth Development Programs
+2. Youth Development Center
+   - Program Fees: $200-$225/month/student
    - Recognition Criteria
-     * Training program fees
-     * Certification fees
-     * Equipment usage
-     * Material costs
-   - Recognition Timing
-     * Program fees: Monthly basis
-     * Certification: Upon completion
-     * Equipment: As utilized
-     * Materials: Upon delivery
+     * Service completion
+     * Attendance tracking
+     * Quality verification
+     * Payment confirmation
+     * Documentation completion
 
 #### Innovation Center Revenue
 1. Research & Development
+   - Custom Project Rates
    - Recognition Criteria
-     * Facility usage fees
-     * Equipment rental
-     * Technical services
-     * Research partnerships
-   - Recognition Timing
-     * Usage fees: As incurred
-     * Rental: Monthly basis
-     * Services: Upon delivery
-     * Partnerships: Per agreement terms
+     * Project milestones
+     * Deliverable acceptance
+     * Resource utilization
+     * Client approval
+     * Documentation requirements
 
 2. Training Programs
+   - Program-Based Pricing
    - Recognition Criteria
-     * Course fees
-     * Certification programs
-     * Custom training
-     * Facility usage
-   - Recognition Timing
-     * Course fees: Per session
-     * Certification: Upon completion
-     * Custom training: As delivered
-     * Facility: As utilized
+     * Training delivery
+     * Certification completion
+     * Quality verification
+     * Payment processing
+     * Documentation standards
 
 #### Traditional Service Revenue
 1. Water Management Services
+   - Annual Target: $350,000
    - Recognition Criteria
      * Service completion
      * Client acceptance
      * Quality verification
-     * Documentation completion
-   - Recognition Timing
-     * Upon service completion
-     * Per milestone achievement
-     * Monthly service contracts
-     * Annual agreements
+     * Payment terms
+     * Documentation requirements
 
 2. Property Maintenance
+   - Annual Target: $275,000
    - Recognition Criteria
      * Service delivery
      * Client approval
      * Quality standards
-     * Contract terms
-   - Recognition Timing
-     * Regular service: Monthly
-     * Special projects: Upon completion
-     * Seasonal services: As delivered
-     * Emergency services: Upon completion
+     * Payment processing
+     * Documentation completion
 
 3. Professional Finishing
+   - Annual Target: $237,500
    - Recognition Criteria
      * Project completion
      * Quality inspection
      * Client acceptance
-     * Documentation
-   - Recognition Timing
+     * Payment terms
+     * Documentation standards
+
+### Grant Revenue [KB-031-15]
+
+#### Grant Categories
+1. Educational Innovation Grants
+   - Target Range: $250,000 - $425,000
+   - Recognition Criteria
+     * Grant award notification
+     * Performance obligations
+     * Milestone achievement
+     * Reporting compliance
+     * Documentation standards
+
+2. Research & Development Grants
+   - Target Range: $350,000 - $575,000
+   - Recognition Criteria
+     * Award confirmation
      * Project milestones
-     * Final completion
-     * Service contracts
-     * Maintenance agreements
+     * Compliance verification
+     * Performance reporting
+     * Documentation requirements
 
-#### Grant Revenue
-1. Recognition Requirements
-   - Grant approval
-   - Performance obligations
-   - Compliance verification
-   - Reporting requirements
-   - Documentation standards
+3. Traditional Service Grants
+   - Target Range: $400,000 - $650,000
+   - Recognition Criteria
+     * Grant approval
+     * Service delivery
+     * Compliance verification
+     * Performance validation
+     * Documentation completion
 
-2. Recognition Timing
-   - Upon award notification
-   - Milestone achievement
-   - Cost reimbursement
-   - Program completion
-   - Reporting periods
-
-### Recognition Principles
+### Recognition Principles [KB-031-16]
 
 #### General Principles
-1. Performance Obligations
-   - Service delivery
-   - Program completion
-   - Milestone achievement
-   - Quality standards
-   - Documentation requirements
+1. Revenue Recognition
+   - Performance obligations identified
+   - Transfer of control verified
+   - Collection probability assessed
+   - Price determination confirmed
+   - Documentation requirements met
 
-2. Revenue Measurement
-   - Fee structure
-   - Contract terms
-   - Variable consideration
-   - Payment schedules
-   - Refund policies
+2. Timing Considerations
+   - Service or program completion
+   - Student enrollment period
+   - Research project milestones
+   - Payment terms compliance
+   - Documentation timing
 
-### Documentation Requirements
+### Recognition Procedures [KB-031-17]
 
-#### Required Records
-1. Educational Programs
-   - Enrollment records
+#### Educational Revenue
+1. Recognition Process
+   - Monthly enrollment verification
    - Attendance tracking
-   - Program completion
-   - Payment records
-   - Performance documentation
+   - Program delivery confirmation
+   - Payment processing
+   - Revenue recording
 
-2. Innovation Centers
-   - Usage logs
-   - Service records
-   - Research agreements
+2. Documentation Requirements
+   - Enrollment records
+   - Attendance logs
+   - Program completion records
    - Payment documentation
-   - Partnership contracts
+   - Supporting materials
 
-3. Traditional Services
-   - Service orders
-   - Completion records
-   - Quality reports
+#### Research Revenue
+1. Recognition Process
+   - Project milestone verification
+   - Deliverable acceptance
+   - Resource utilization tracking
+   - Invoice generation
+   - Revenue recording
+
+2. Documentation Requirements
+   - Project records
+   - Milestone achievements
    - Client approvals
    - Payment documentation
+   - Supporting materials
 
-4. Grant Documentation
-   - Award letters
-   - Performance reports
-   - Financial records
-   - Compliance documentation
-   - Progress updates
-
-### Payment Processing
+### Payment Processing [KB-031-18]
 
 #### Payment Methods
 1. Educational Programs
-   - Monthly billing
-   - Registration fees
-   - Material charges
-   - Equipment usage
-   - Special programs
+   - Monthly tuition processing
+   - Program fee collection
+   - Payment plan management
+   - Record keeping
+   - Documentation
 
-2. Innovation Centers
-   - Usage billing
-   - Program fees
-   - Research contracts
-   - Partnership agreements
-   - Special projects
+2. Research Projects
+   - Milestone payments
+   - Project fee collection
+   - Contract management
+   - Documentation
+   - Reconciliation
 
-3. Traditional Services
-   - Service invoicing
-   - Contract billing
-   - Project milestones
-   - Monthly services
-   - Emergency services
+### Performance Obligations [KB-031-19]
 
-### Performance Obligations
-
-#### Obligation Verification
-1. Educational Programs
-   - Program delivery
+#### Program Obligations
+1. Completion Criteria
+   - Educational standards
+   - Program requirements
+   - Quality metrics
+   - Documentation
    - Student progress
-   - Certification requirements
-   - Quality standards
-   - Safety compliance
 
-2. Innovation Centers
-   - Facility availability
-   - Equipment access
-   - Technical support
-   - Research resources
-   - Program delivery
+2. Verification Process
+   - Progress assessment
+   - Quality review
+   - Student confirmation
+   - Documentation review
+   - Approval process
 
-3. Traditional Services
-   - Service standards
-   - Quality requirements
-   - Timeline compliance
-   - Safety protocols
-   - Client satisfaction
+### Documentation Requirements [KB-031-20]
 
-### Reporting Requirements
+#### Required Documentation
+1. Educational Records
+   - Enrollment details
+   - Attendance records
+   - Program completion
+   - Payment history
+   - Supporting documentation
+
+2. Research Records
+   - Project details
+   - Milestone achievements
+   - Client approvals
+   - Payment records
+   - Supporting materials
+
+### Reporting Requirements [KB-031-21]
 
 #### Regular Reports
 1. Monthly Reports
-   - Revenue by category
-   - Program enrollment
-   - Service delivery
-   - Grant status
-   - Financial metrics
+   - Revenue recognition
+   - Program metrics
+   - Research progress
+   - Documentation review
+   - Issue resolution
 
 2. Quarterly Reports
-   - Performance analysis
-   - Trend evaluation
+   - Revenue analysis
+   - Performance review
+   - Trend analysis
    - Forecast updates
-   - Compliance status
-   - Strategic review
+   - Documentation audit
 
-### Compliance Requirements
+### Compliance Requirements [KB-031-22]
 
-#### Regulatory Standards
-1. Educational Programs
-   - Accreditation standards
-   - Safety regulations
-   - Program requirements
-   - Financial aid rules
-   - Reporting obligations
-
-2. Grant Compliance
-   - Award requirements
-   - Performance standards
-   - Financial reporting
-   - Documentation needs
+#### Regulatory Compliance
+1. Educational Standards
+   - Accreditation requirements
+   - Program regulations
+   - Student protection
+   - Documentation standards
    - Audit requirements
 
-### Audit Procedures
-
-#### Internal Review
-1. Regular Audits
-   - Revenue verification
-   - Documentation review
-   - Compliance check
-   - Performance validation
-   - Report generation
-
-2. Quality Control
-   - Process review
-   - Documentation verification
-   - Compliance confirmation
-   - Performance validation
-   - Improvement planning
+2. Research Compliance
+   - Project standards
+   - Safety regulations
+   - Ethics requirements
+   - Documentation protocols
+   - Audit procedures
 
 ### Appendices
 
 #### A. Documentation Templates
-1. Revenue Recognition Forms
-2. Program Verification Forms
-3. Service Documentation
-4. Grant Records
-5. Audit Checklists
+1. Educational Forms
+   - Enrollment records
+   - Program verification
+   - Payment processing
+   - Revenue recognition
+   - Audit checklists
 
-#### B. Process Flows
-1. Recognition Procedures
-2. Payment Processing
-3. Documentation Requirements
-4. Audit Protocols
-5. Reporting Standards
+2. Research Forms
+   - Project documentation
+   - Milestone verification
+   - Client approval
+   - Revenue recognition
+   - Audit procedures
 
 ---
 
