@@ -1,6 +1,6 @@
 import React from 'react';
 
-const CapitalExpenditures = () => {
+const CapitalExpenditures: React.FC = () => {
     return (
         <div>
             <h1>Capital Expenditures Tracking</h1>

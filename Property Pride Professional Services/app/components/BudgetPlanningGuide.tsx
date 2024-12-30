@@ -1,6 +1,6 @@
 import React from 'react';
 
-const BudgetPlanningGuide = () => {
+const BudgetPlanningGuide: React.FC = () => {
     return (
         <div>
             <h1>Budget Planning Guide</h1>
@@ -63,9 +63,9 @@ const BudgetPlanningGuide = () => {
                 </li>
             </ol>
 
-            <h4>Investment Categories</h4>
+            <h3>Investment Categories</h3>
 
-            <h5>Core Operations (30%): $975,000</h5>
+            <h4>Core Operations (30%): $975,000</h4>
             <ol>
                 <li>Technology Enhancement: $390,000
                     <ul>
@@ -101,7 +101,7 @@ const BudgetPlanningGuide = () => {
                 </li>
             </ol>
 
-            <h5>Educational Programs (35%): $1,137,500</h5>
+            <h4>Educational Programs (35%): $1,137,500</h4>
             <ol>
                 <li>Advanced Discovery Hub: $455,000
                     <ul>
@@ -137,7 +137,7 @@ const BudgetPlanningGuide = () => {
                 </li>
             </ol>
 
-            <h5>Innovation Centers (35%): $1,137,500</h5>
+            <h4>Innovation Centers (35%): $1,137,500</h4>
             <ol>
                 <li>Agricultural Hub: $455,000
                     <ul>
@@ -346,12 +346,14 @@ const BudgetPlanningGuide = () => {
             <p>*This Budget Planning Guide is maintained by the Financial Team and updated monthly or as needed to reflect financial requirements and best practices.*</p>
 
             <h4>Document Control:</h4>
-            <p>Location: DOC-006-BPG-2024</p>
-            <p>Access Level: Internal Use Only</p>
-            <p>Review Cycle: Monthly</p>
-            <p>Document Owner: Financial Director</p>
-            <p>Technical Owner: Financial Team</p>
-            <p>Last Technical Review: 2024-12-28</p>
+            <ul>
+                <li>Location: DOC-006-BPG-2024</li>
+                <li>Access Level: Internal Use Only</li>
+                <li>Review Cycle: Monthly</li>
+                <li>Document Owner: Financial Director</li>
+                <li>Technical Owner: Financial Team</li>
+                <li>Last Technical Review: 2024-12-28</li>
+            </ul>
         </div>
     );
 };
