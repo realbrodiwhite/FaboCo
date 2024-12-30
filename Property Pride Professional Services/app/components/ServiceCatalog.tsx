@@ -429,32 +429,35 @@ const ServiceCatalog: React.FC = () => {
             </ul>
 
             <h3>Service Policies</h3>
-            <h4>1. Scheduling</h4>
-            <ul>
-                <li>24-hour notice preferred</li>
-                <li>Emergency service available</li>
-                <li>Online booking</li>
-                <li>App scheduling</li>
-                <li>Custom arrangements</li>
-            </ul>
-
-            <h4>2. Payment Terms</h4>
-            <ul>
-                <li>Net 30 (approved accounts)</li>
-                <li>Major credit cards</li>
-                <li>Monthly billing</li>
-                <li>Custom plans</li>
-                <li>Grant integration</li>
-            </ul>
-
-            <h4>3. Quality Guarantee</h4>
-            <ul>
-                <li>Satisfaction guaranteed</li>
-                <li>Quality assurance</li>
-                <li>Professional service</li>
-                <li>Data verification</li>
-                <li>Performance tracking</li>
-            </ul>
+            <ol>
+                <li>Scheduling
+                    <ul>
+                        <li>24-hour notice preferred</li>
+                        <li>Emergency service available</li>
+                        <li>Online booking</li>
+                        <li>App scheduling</li>
+                        <li>Custom arrangements</li>
+                    </ul>
+                </li>
+                <li>Payment Terms
+                    <ul>
+                        <li>Net 30 (approved accounts)</li>
+                        <li>Major credit cards</li>
+                        <li>Monthly billing</li>
+                        <li>Custom plans</li>
+                        <li>Grant integration</li>
+                    </ul>
+                </li>
+                <li>Quality Guarantee
+                    <ul>
+                        <li>Satisfaction guaranteed</li>
+                        <li>Quality assurance</li>
+                        <li>Professional service</li>
+                        <li>Data verification</li>
+                        <li>Performance tracking</li>
+                    </ul>
+                </li>
+            </ol>
 
             <p>*This Service Catalog is maintained by the Operations Team and updated monthly to reflect current services, programs, and pricing.*</p>
 
@@ -472,3 +475,96 @@ const ServiceCatalog: React.FC = () => {
 };
 
 export default ServiceCatalog;
+```
+
+Now, I will create the `ServiceCatalog.tsx` file with the above content.
+
+<create_file>
+<path>app/components/ServiceCatalog.tsx</path>
+<content>
+import React from 'react';
+
+const ServiceCatalog: React.FC = () => {
+    return (
+        <div>
+            <h1>Complete Service Catalog 2024</h1>
+            <h2>Property Pride Professional Services (3PS)</h2>
+            <p>Version: 2.0.1</p>
+            <p>Last Updated: 2024-12-28</p>
+            <p>Document Control: DOC-005-SC-2024</p>
+            <p>Last Modified By: Documentation Team</p>
+            <p>Change Type: Strategic Enhancement Update</p>
+
+            <h3>Education & Innovation Programs</h3>
+
+            <h4>Advanced Discovery Hub (Ages 12-13)</h4>
+            <h5>Research & Learning Centers</h5>
+            <ol>
+                <li>Quantum & AI Labs
+                    <ul>
+                        <li>Neural Network Training Center
+                            <ul>
+                                <li>Advanced AI Programming</li>
+                                <li>Quantum Computing Basics</li>
+                                <li>Pattern Recognition Lab</li>
+                                <li>Monthly Program Fee: $275</li>
+                            </ul>
+                        </li>
+                        <li>Quantum Computing Fundamentals
+                            <ul>
+                                <li>Quantum Principles Lab</li>
+                                <li>Circuit Design Studio</li>
+                                <li>Algorithm Development</li>
+                                <li>Monthly Program Fee: $275</li>
+                            </ul>
+                        </li>
+                    </ul>
+                </li>
+                <li>Biotech Research Center
+                    <ul>
+                        <li>CRISPR Education Lab
+                            <ul>
+                                <li>Gene Editing Basics</li>
+                                <li>Molecular Biology</li>
+                                <li>Ethics in Biotechnology</li>
+                                <li>Monthly Program Fee: $300</li>
+                            </ul>
+                        </li>
+                        <li>DNA Sequencing Studio
+                            <ul>
+                                <li>Genomics Fundamentals</li>
+                                <li>Data Analysis</li>
+                                <li>Lab Techniques</li>
+                                <li>Monthly Program Fee: $300</li>
+                            </ul>
+                        </li>
+                    </ul>
+                </li>
+                <li>Environmental Tech Facility
+                    <ul>
+                        <li>Carbon Capture Lab
+                            <ul>
+                                <li>Environmental Science</li>
+                                <li>Technology Integration</li>
+                                <li>Data Collection</li>
+                                <li>Monthly Program Fee: $250</li>
+                            </ul>
+                        </li>
+                        <li>Renewable Energy Center
+                            <ul>
+                                <li>Solar Technology</li>
+                                <li>Wind Energy Systems</li>
+                                <li>Energy Storage</li>
+                                <li>Monthly Program Fee: $250</li>
+                            </ul>
+                        </li>
+                    </ul>
+                </li>
+                <li>Space Technology Lab
+                    <ul>
+                        <li>Satellite Data Center
+                            <ul>
+                                <li>Orbital Mechanics</li>
+                                <li>Data Analysis</li>
+                                <li>Remote Sensing</li>
+                                <li>Monthly Program Fee

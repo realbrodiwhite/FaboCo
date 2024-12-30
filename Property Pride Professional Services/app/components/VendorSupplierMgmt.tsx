@@ -35,101 +35,62 @@ const VendorSupplierMgmt: React.FC = () => {
             <h4>Total Cost of Ownership</h4>
             <p>Consider full lifecycle costs, not just initial purchase price.</p>
 
-            <h3>Vendor Selection Process</h3>
+            <h4>Performance Management</h4>
+            <ul>
+                <li>Establish clear performance metrics and expectations</li>
+                <li>Regularly review vendor performance against agreed standards</li>
+                <li>Provide feedback and support for improvement</li>
+                <li>Recognize and reward high-performing vendors</li>
+            </ul>
+
+            <h4>Risk Management</h4>
+            <ul>
+                <li>Identify and assess risks associated with vendors</li>
+                <li>Implement controls to mitigate identified risks</li>
+                <li>Monitor vendor compliance with contractual obligations</li>
+                <li>Develop contingency plans for critical suppliers</li>
+            </ul>
+
+            <h3>Vendor Selection Process 📋</h3>
 
             <h4>1. Needs Assessment</h4>
-            <ul>
-                <li>Identify specific needs and requirements</li>
-                <li>Define evaluation criteria</li>
-                <li>Engage stakeholders for input</li>
-            </ul>
+            <p>Identify the specific needs and requirements for the goods or services.</p>
 
             <h4>2. Market Research</h4>
-            <ul>
-                <li>Conduct market analysis</li>
-                <li>Identify potential vendors</li>
-                <li>Gather information on vendor capabilities</li>
-            </ul>
+            <p>Conduct research to identify potential vendors and suppliers.</p>
 
             <h4>3. Request for Proposal (RFP)</h4>
-            <ul>
-                <li>Develop and issue RFPs</li>
-                <li>Evaluate vendor responses</li>
-                <li>Conduct interviews and site visits</li>
-            </ul>
+            <p>Issue RFPs to selected vendors to gather proposals and pricing.</p>
 
-            <h4>4. Vendor Evaluation</h4>
-            <ul>
-                <li>Score vendor proposals against criteria</li>
-                <li>Consider total cost of ownership</li>
-                <li>Assess vendor reputation and reliability</li>
-            </ul>
+            <h4>4. Evaluation and Selection</h4>
+            <p>Evaluate proposals based on criteria such as cost, quality, and service.</p>
 
             <h4>5. Contract Negotiation</h4>
+            <p>Negotiate terms and conditions to ensure mutual understanding and agreement.</p>
+
+            <h3>Vendor Performance Monitoring 📊</h3>
+
+            <h4>Key Performance Indicators (KPIs)</h4>
             <ul>
-                <li>Negotiate terms and conditions</li>
-                <li>Ensure compliance with legal standards</li>
-                <li>Finalize contracts with selected vendors</li>
+                <li>Delivery performance</li>
+                <li>Quality of goods/services</li>
+                <li>Cost management</li>
+                <li>Responsiveness and communication</li>
             </ul>
 
-            <h3>Performance Management</h3>
-
-            <h4>1. Key Performance Indicators (KPIs)</h4>
-            <ul>
-                <li>Define KPIs for vendor performance</li>
-                <li>Regularly review vendor performance against KPIs</li>
-                <li>Provide feedback and support for improvement</li>
-            </ul>
-
-            <h4>2. Continuous Improvement</h4>
-            <ul>
-                <li>Encourage vendor innovation and efficiency</li>
-                <li>Share best practices and lessons learned</li>
-                <li>Conduct regular performance reviews</li>
-            </ul>
-
-            <h3>Risk Management</h3>
-
-            <h4>1. Risk Assessment</h4>
-            <ul>
-                <li>Identify potential risks associated with vendors</li>
-                <li>Evaluate the impact of risks on operations</li>
-                <li>Develop mitigation strategies</li>
-            </ul>
-
-            <h4>2. Contingency Planning</h4>
-            <ul>
-                <li>Establish backup vendors for critical services</li>
-                <li>Develop response plans for vendor failures</li>
-                <li>Regularly test contingency plans</li>
-            </ul>
-
-            <h3>Compliance and Documentation</h3>
-
-            <h4>1. Regulatory Compliance</h4>
-            <ul>
-                <li>Ensure vendors comply with relevant regulations</li>
-                <li>Conduct regular audits of vendor compliance</li>
-                <li>Maintain documentation of compliance efforts</li>
-            </ul>
-
-            <h4>2. Documentation Management</h4>
-            <ul>
-                <li>Keep accurate records of vendor interactions</li>
-                <li>Document performance evaluations and audits</li>
-                <li>Maintain contracts and agreements in a centralized system</li>
-            </ul>
+            <h4>Regular Reviews</h4>
+            <p>Conduct regular performance reviews to assess vendor effectiveness and compliance.</p>
 
             <h3>Conclusion</h3>
-            <p>This Vendor & Supplier Management Guide provides a framework for effective vendor management at Property Pride Professional Services. By following these guidelines, we can ensure strategic alignment, quality standards, and operational excellence in our vendor relationships.</p>
+            <p>This Vendor & Supplier Management Guide provides a framework for effectively managing vendor relationships at 3PS. By adhering to these principles and processes, we can ensure that our vendor partnerships contribute to our overall success and operational excellence.</p>
 
             <h4>Document Control:</h4>
             <ul>
                 <li>Location: DOC-005-SC-2024</li>
-                <li>Access Level: Public Distribution</li>
-                <li>Review Cycle: Monthly</li>
-                <li>Document Owner: Operations Director</li>
-                <li>Technical Owner: Service Development Team</li>
+                <li>Access Level: Internal Use Only</li>
+                <li>Review Cycle: Quarterly</li>
+                <li>Document Owner: Procurement Director</li>
+                <li>Technical Owner: Procurement Team</li>
                 <li>Last Technical Review: 2024-12-28</li>
             </ul>
         </div>

@@ -143,55 +143,39 @@ const SafetyGuidelines: React.FC = () => {
             </table>
 
             <p>*Risk Levels:*</p>
-            <ul>
+            <ol>
                 <li>Low Risk: Acceptable, monitor for changes</li>
                 <li>Medium Risk: Implement controls, monitor regularly</li>
                 <li>High Risk: Immediate action required, consider suspension</li>
                 <li>Critical Risk: Suspend activity, escalate to senior management</li>
-            </ul>
+            </ol>
 
             <h3>Safety Control Hierarchy 🔒</h3>
+
             <pre>
                 <code>
-                    graph TD
-                    A[Elimination] --> B(Substitution)
-                    B --> C(Engineering Controls) 
-                    C --> D(Administrative Controls)
-                    D --> E(Personal Protective Equipment)
+                    {`graph TD
+    A[Elimination] --> B(Substitution)
+    B --> C(Engineering Controls) 
+    C --> D(Administrative Controls)
+    D --> E(Personal Protective Equipment)`}
                 </code>
             </pre>
 
             <h4>1. 🚫 Elimination</h4>
-            <ul>
-                <li>Physically remove the hazard</li>
-                <li>Most effective control measure</li>
-                <li>Example: Discontinue use of hazardous chemical</li>
-            </ul>
+            <p>Physically remove the hazard. Most effective control measure. Example: Discontinue use of hazardous chemical.</p>
 
             <h4>2. 🔄 Substitution</h4>
-            <ul>
-                <li>Replace hazard with less dangerous option</li>
-                <li>Example: Use safer alternative to hazardous material</li>
-            </ul>
+            <p>Replace hazard with less dangerous option. Example: Use safer alternative to hazardous material.</p>
 
             <h4>3. 🏗️ Engineering Controls</h4>
-            <ul>
-                <li>Isolate people from hazard</li>
-                <li>Example: Install machine guards, ventilation systems</li>
-            </ul>
+            <p>Isolate people from hazard. Example: Install machine guards, ventilation systems.</p>
 
             <h4>4. 📋 Administrative Controls</h4>
-            <ul>
-                <li>Change the way people work</li>
-                <li>Example: Safety procedures, training, warning signs</li>
-            </ul>
+            <p>Change the way people work. Example: Safety procedures, training, warning signs.</p>
 
             <h4>5. 👷 Personal Protective Equipment (PPE)</h4>
-            <ul>
-                <li>Protect worker with wearable equipment</li>
-                <li>Least effective control measure</li>
-                <li>Example: Safety glasses, hard hats, gloves</li>
-            </ul>
+            <p>Protect worker with wearable equipment. Least effective control measure. Example: Safety glasses, hard hats, gloves.</p>
 
             <h3>Safety Training and Competency 🎓</h3>
 
@@ -220,15 +204,15 @@ const SafetyGuidelines: React.FC = () => {
                         <li>Self-paced e-learning modules</li>
                         <li>Micro-learning videos and quizzes</li>
                         <li>Virtual reality (VR) simulations</li>
-                        <li>Mobile app reinforcement</li>
+                        <li>Hands-on workshops and demonstrations</li>
                     </ul>
                 </li>
-                <li>🧑‍🏫 Instructor-Led Training
+                <li>🏫 Instructor-Led Training
                     <ul>
                         <li>Classroom-style lectures and discussions</li>
-                        <li>Hands-on workshops and demonstrations</li>
-                        <li>Field coaching and on-the-job training</li>
-                        <li>Safety meetings and toolbox talks</li>
+                        <li>Hands-on simulations and role-plays</li>
+                        <li>Case study discussions</li>
+                        <li>Q&A sessions with SMEs</li>
                     </ul>
                 </li>
                 <li>🧩 Blended Learning
@@ -286,12 +270,7 @@ const SafetyGuidelines: React.FC = () => {
             <h3>Safety Technology Enablement 💻</h3>
 
             <h4>Integrated Safety Management System</h4>
-            <p>Centralized platform for safety data and processes</p>
-            <ul>
-                <li>Modules for risk assessment, audits, incidents, actions</li>
-                <li>Automated workflows and notifications</li>
-                <li>Mobile app for frontline engagement</li>
-            </ul>
+            <p>Centralized platform for safety data and processes. Modules for risk assessment, audits, incidents, actions. Automated workflows and notifications. Mobile app for frontline engagement.</p>
 
             <h4>Advanced Safety Technologies</h4>
             <ul>
@@ -303,7 +282,6 @@ const SafetyGuidelines: React.FC = () => {
 
             <h3>Conclusion</h3>
             <p>These Safety Guidelines provide the foundation for a robust safety culture and management system at 3PS. By embracing safety principles, adopting a risk-based approach, and leveraging technology, we can proactively identify and control hazards to prevent incidents.</p>
-
             <p>All employees have a responsibility to follow safety rules, report concerns, and actively participate in safety initiatives. Leaders are expected to model the right behaviors, provide necessary resources, and foster a culture of openness and accountability. Regular reviews and updates to these guidelines will ensure our safety program remains effective.</p>
 
             <h4>Document Control:</h4>
