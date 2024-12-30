@@ -1,14 +1,11 @@
 "use client";
 import React, { useState } from "react";
-/* import { useUser } from "path/to/useUser"; // Update with the correct path
-import NewComponent from "path/to/NewComponent"; // Update with the correct path */
+import NewComponent from "./components/NewComponent"; // Ensure the correct path
 
 function MainComponent() {
   const [searchTerm, setSearchTerm] = useState("");
-  const { data: user, loading } = useUser();
   const [activeView, setActiveView] = useState("home");
   const [selectedDoc, setSelectedDoc] = useState("overview");
-  const userHasAccess = () => true;
 
   const renderContent = () => {
     if (activeView === "docs") {
@@ -144,33 +141,9 @@ function MainComponent() {
           logoAlt="Property Pride Professional Services Logo"
           activeView={activeView}
           onNavigate={setActiveView}
-          isUserAuthenticated={!!user}
         />
       </header>
-      <main className="max-w-7xl mx-auto px-4 py-8 md:py-16 bg-gray-50 flex">
-        <Sidebar documents={[
-          { title: "API Documentation", path: "/documents/api-documentation" },
-          { title: "Automation Strategy", path: "/documents/automation-strategy" },
-          { title: "Budget Planning Guide", path: "/documents/budget-planning-guide" },
-          { title: "Business Continuity Plan", path: "/documents/business-continuity-plan" },
-          { title: "Capability Development Frameworks", path: "/documents/capability-development-frameworks" },
-          { title: "Capital Expenditures Technology Investment Plan", path: "/documents/capital-expenditures-technology-investment-plan" },
-          { title: "Change Management Procedures", path: "/documents/change-management-procedures" },
-          { title: "Client Interface Guide", path: "/documents/client-interface-guide" },
-          { title: "Client Onboarding Guide", path: "/documents/client-onboarding-guide" },
-          { title: "Code of Conduct", path: "/documents/code-of-conduct" },
-          { title: "Crisis Management Plan", path: "/documents/crisis-management-plan" },
-          { title: "Data Implementation Strategy", path: "/documents/data-implementation-strategy" },
-          { title: "Emergency Response Plan", path: "/documents/emergency-response-plan" },
-          { title: "Financial Plan", path: "/documents/financial-plan" },
-          { title: "Operations Manual", path: "/documents/operations-manual" },
-          { title: "Quality Standards", path: "/documents/quality-standards" },
-          { title: "Regulatory Compliance", path: "/documents/regulatory-compliance" },
-          { title: "Strategic Plan", path: "/documents/strategic-plan" },
-          { title: "Training Manual", path: "/documents/training-manual" },
-          { title: "Vendor Supplier Management Guide", path: "/documents/vendor-supplier-management-guide" },
-          // Add more documents as needed
-        ]} />
+      <main className="max-w-7xl mx-auto px-4 py-8 md:py-16 bg-gray-50">
         {renderContent()}
       </main>
     </div>
